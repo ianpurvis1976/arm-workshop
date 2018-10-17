@@ -61,7 +61,7 @@
             "type": "array",
             "value": "[parameters('spoke').subnets]"
           },
-          "huballl": {
+          "huball": {
             "type": "object",
             "value": "[parameters('hub')]"
           },
